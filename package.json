@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "blockchain-wallet-service": "^0.26.3"
+  }
+}
