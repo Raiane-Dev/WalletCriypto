@@ -1,5 +1,5 @@
 <h5>Olá mundo! Bem vindos ao Wallet Crypto.</h5>
-<p>Essa interface do lado do cliente que ajuda você a interagir com o Blockchain.</p>
+<p>Carteira de criptomoedas é uma plataforma de código aberto para transferência de transações digitais ou criptomoedas entre usuários de uma determinada rede de blockchain sem necessidade de um backend centralizado e acionamento de segurança inteligente do blockchain. Os dados podem ser gerenciados e organizados de forma aberta, permanente, verificados e compartilhados. </p>
 
 
 <ul>
